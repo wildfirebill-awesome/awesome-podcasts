@@ -1,4 +1,5 @@
 # Awesome list of Important Podcasts for software engineers
+Modified by [wildfirebill](https://github.com/wildfirebill)
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 List of podcasts which are helpful for software engineers/programmers.
